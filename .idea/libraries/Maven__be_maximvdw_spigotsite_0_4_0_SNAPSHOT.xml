@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: be.maximvdw:spigotsite:0.4.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/maximvdw/spigotsite/0.4.0-SNAPSHOT/spigotsite-0.4.0-20190510.134753-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/be/maximvdw/spigotsite/0.4.0-SNAPSHOT/spigotsite-0.4.0-20190510.134753-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/be/maximvdw/spigotsite/0.4.0-SNAPSHOT/spigotsite-0.4.0-20190510.134753-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

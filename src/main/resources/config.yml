@@ -1,0 +1,25 @@
+## ------------------------------ ##
+##
+## Spigot PM Cleanup
+## (c) Maxim Van de Wynckel
+##
+## ------------------------------ ##
+
+## !!
+# This application will clean all PM's
+## !!
+
+# DO NOT EDIT!
+config: 1
+
+# Spigot Username
+username: ''
+
+# Spigot password
+password: ''
+
+# Spigot 2FA key if enabled
+2fakey: ''
+
+# Debug: Will pretend to mark conversations as read, but will not actually read them
+debug: false
